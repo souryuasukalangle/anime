@@ -1,3 +1,6 @@
+免费动漫网站（网站若不可用，可以自行搜索名字）
+（最下面有免费动漫软件网站）
+
 Age： https://www.agedm.org/ 
 
 Age：http://agemys8.com/ 
@@ -45,3 +48,23 @@ Omoz：https://www.omofunz.com/
 樱花：https://www.aidm3.com/
 
 樱花：https://www.wedm8.com/
+
+免费动漫软件
+
+ani：https://github.com/open-ani/animeko 
+
+anime：https://github.com/lanlinju/Anime 
+
+kazumi：https://github.com/Predidit/Kazumi 
+
+knkp：https://github.com/KNKPA/KNKPAnime 
+
+miru：https://miru.js.org/ 
+
+one：https://github.com/Predidit/oneAnime 
+
+play：https://www.dandanplay.com/
+
+绿化动漫追剧软件
+
+https://pan.quark.cn/s/22d117f08fe8#/list/share
