@@ -2,11 +2,13 @@
 
 免费动漫网站（网站若不可用，可以自行搜索名字）
 
-（最下面有免费动漫软件网站）
+（第一个是动漫资讯网站，最下面有免费动漫软件网站）
 
 （收集原因：画质不错，少广告，资源更新快，资源多）
 
-Age： https://www.agedm.org/ 
+bgm：https://bgm.tv/
+
+Age：https://www.agedm.org/ 
 
 Age：http://agemys8.com/ 
 
