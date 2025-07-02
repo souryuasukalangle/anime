@@ -71,7 +71,3 @@ miru：https://miru.js.org/
 one：https://github.com/Predidit/oneAnime 
 
 play：https://www.dandanplay.com/
-
-绿化动漫追剧软件
-
-https://pan.quark.cn/s/22d117f08fe8#/list/share
