@@ -32,15 +32,11 @@ Omoz：https://www.omofunz.com/
 
 动漫蛋：https://www.dmdan.cc/ 
 
-动漫共和国：https://vfiles.gtimg.cn/
-
 风车：https://www.adm11.com/
 
 风车：https://www.wedm3.com/
 
 咕咕番：https://www.gugufan.xyz/
-
-囧次元：https://jocy.im/
 
 路漫漫：https://i.qg50.com/
 
@@ -73,3 +69,11 @@ miru：https://miru.js.org/
 one：https://github.com/Predidit/oneAnime 
 
 play：https://www.dandanplay.com/
+
+其他
+
+动漫共和国：https://vfiles.gtimg.cn/wuji_open/animerep.html
+
+黑白弹幕：https://heibai1.com/
+
+囧次元：https://jocy.im/
