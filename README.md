@@ -4,7 +4,7 @@
 
 （收集原因：画质不错，少广告，资源更新快，不用翻墙）
 
-（像风车动漫、樱花动漫等网站，太乱太假太慢太多广告和不稳定性不再收集）
+（像风车、樱花动漫那些，太乱太多太假和不稳定因素不再收集）
 
 bgm：https://bgm.tv/
 
@@ -18,7 +18,7 @@ Mx：https://www.mxfuns.com/
 
 Nt：https://ntdm.fans/ 
 
-Omoz：https://www.omofunz.com/
+Omo：https://omofun.link/
 
 次元城：https://www.cycanime.com/
 
