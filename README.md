@@ -8,10 +8,6 @@ bgm：https://bgm.tv/
 
 Age：https://www.agedm.org/ 
 
-Age：http://agemys8.com/ 
-
-Age：https://v.agedm.net/
-
 Bimi:https://www.bimiacg.icu
 
 E站：https://www.ezdmw.site/
