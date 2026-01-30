@@ -34,10 +34,6 @@ Omo：https://omofun.link/
 
 路漫漫：https://i.qg50.com/
 
-漫岛：www.mandaow.org
-
-萌番：https://www.moefan.cc/
-
 七色番：https://www.7sefun.top/
 
 免费动漫软件
