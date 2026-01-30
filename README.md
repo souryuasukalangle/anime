@@ -12,6 +12,8 @@ Age：http://agemys8.com/
 
 Age：https://v.agedm.net/
 
+Bimi:https://www.bimiacg.icu
+
 E站：https://www.ezdmw.site/
 
 Mx：https://www.mxfuns.com/
@@ -20,8 +22,6 @@ Nt：https://ntdm.fans/
 
 Omoz：https://www.omofunz.com/
 
-布丁：http://buding20.com/
-
 次元城：https://www.cycanime.com/
 
 打驴：https://www.dalvdm.cc/
@@ -29,8 +29,6 @@ Omoz：https://www.omofunz.com/
 动漫： https://anime1.me/ 
 
 动漫蛋：https://www.dmdan.cc/ 
-
-风车：https://www.adm11.com/
 
 风车：https://www.wedm3.com/
 
@@ -42,7 +40,7 @@ Omoz：https://www.omofunz.com/
 
 萌番：https://www.moefan.cc/
 
-七色番：https://www.7sefun.xyz/
+七色番：https://www.7sefun.top/
 
 樱花：http://www.yinghua8.io/
 
@@ -51,6 +49,9 @@ Omoz：https://www.omofunz.com/
 樱花：https://www.aidm3.com/
 
 樱花：https://www.wedm8.com/
+
+风车：https://dm530.org/（中途有广告）
+
 
 免费动漫软件
 
