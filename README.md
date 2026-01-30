@@ -50,8 +50,6 @@ Omoz：https://www.omofunz.com/
 
 樱花：https://www.wedm8.com/
 
-风车：https://dm530.org/（中途有广告）
-
 
 免费动漫软件
 
