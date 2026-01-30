@@ -4,6 +4,8 @@
 
 （收集原因：画质不错，少广告，资源更新快，不用翻墙）
 
+（像风车动漫、樱花动漫等网站，太乱太假太慢太多广告和不稳定性不再收集）
+
 bgm：https://bgm.tv/
 
 Age：https://www.agedm.org/ 
@@ -37,15 +39,6 @@ Omoz：https://www.omofunz.com/
 萌番：https://www.moefan.cc/
 
 七色番：https://www.7sefun.top/
-
-樱花：http://www.yinghua8.io/
-
-樱花：https://www.295yhw.com/
-
-樱花：https://www.aidm3.com/
-
-樱花：https://www.wedm8.com/
-
 
 免费动漫软件
 
