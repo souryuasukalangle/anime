@@ -14,7 +14,11 @@ Bimi:https://www.bimiacg.icu
 
 E站：https://www.ezdmw.site/
 
+Girigiri：https://girigirilove.top/
+
 Mx：https://www.dcc3.com/
+
+Moefun：https://www.moefun.net/
 
 Nt：https://ntdm.fans/ 
 
@@ -36,7 +40,9 @@ Omo：https://omofun.link/
 
 七色番：https://www.7sefun.top/
 
-免费动漫软件
+稀饭动漫：https://xifan.moe/
+
+开源无广免费动漫软件
 
 ani：https://github.com/open-ani/animeko 
 
@@ -50,12 +56,26 @@ miru：https://miru.js.org/
 
 one：https://github.com/Predidit/oneAnime 
 
-play：https://www.dandanplay.com/
+纯纯看番：https://github.com/easybangumiorg
 
-其他
+弹弹play：https://www.dandanplay.com/
 
-动漫共和国：https://vfiles.gtimg.cn/wuji_open/animerep.html
+其他（哎，有些建议找去广告绿化版，广告满天飞，少点还说的过去）
+
+Girigiri：https://girigirilove.top/
+
+Mi动漫：https://midm.app/
+
+Moefun：https://www.moefun.net/
+
+Silisili：https://silisili.org/
+
+打驴动漫：https://www.dlidli.app/
+
+动漫共和国：https://www.oneghg.com/
 
 黑白弹幕：https://heibai1.com/
 
-囧次元：https://jocy.im/
+囧次元：https://www.jcyapp.cn/
+
+稀饭动漫：https://xifan.moe/
