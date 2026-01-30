@@ -14,7 +14,7 @@ Bimi:https://www.bimiacg.icu
 
 E站：https://www.ezdmw.site/
 
-Mx：https://www.mxfuns.com/
+Mx：https://www.dcc3.com/
 
 Nt：https://ntdm.fans/ 
 
