@@ -10,7 +10,7 @@ bgm：https://bgm.tv/
 
 Age：https://www.agedm.org/ 
 
-Bimi:https://www.bimiacg.icu
+Bimi:https://www.bimiacg.icu/
 
 E站：https://www.ezdmw.site/
 
