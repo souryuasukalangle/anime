@@ -62,6 +62,8 @@ one：https://github.com/Predidit/oneAnime
 
 其他（哎，有些建议找去广告绿化版，广告满天飞，少点还说的过去）
 
+Clicli：https://www.clicli.blog/
+
 Girigiri：https://girigirilove.top/
 
 Mi动漫：https://midm.app/
