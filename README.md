@@ -44,17 +44,19 @@ Omo：https://omofun.link/
 
 开源无广免费动漫软件
 
-ani：https://github.com/open-ani/animeko 
+Ani：https://github.com/open-ani/animeko 
 
-anime：https://github.com/lanlinju/Anime 
+Anich：https://github.com/Sle2p/AniCh
+
+Anime：https://github.com/lanlinju/Anime 
 
 kazumi：https://github.com/Predidit/Kazumi 
 
 knkp：https://github.com/KNKPA/KNKPAnime 
 
-miru：https://miru.js.org/ 
+Miru：https://miru.js.org/ 
 
-one：https://github.com/Predidit/oneAnime 
+One：https://github.com/Predidit/oneAnime 
 
 纯纯看番：https://github.com/easybangumiorg
 
@@ -67,6 +69,8 @@ Clicli：https://www.clicli.blog/
 Girigiri：https://girigirilove.top/
 
 Mi动漫：https://midm.app/
+
+Mifun：https://mifun.app/
 
 Moefun：https://www.moefun.net/
 
